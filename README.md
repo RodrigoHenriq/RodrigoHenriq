@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @RodrigoHenriq
+- 👋 Hi, I’m Rodrigo Henrique

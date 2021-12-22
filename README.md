@@ -14,7 +14,7 @@
   <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
   <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-  <img align="right" height="175" src="https://www.correiodopovo.com.br/image/policy:1.380556:1573842729/lulaa%20.jpg.jpg?a=1%3A1&$p$a=9519e63">
+  <img align="right" height="150" src="https://i.pinimg.com/originals/d1/21/ea/d121eaa96d89f699e50ec0c22889cb06.png">
 </div>  
 
   ##
